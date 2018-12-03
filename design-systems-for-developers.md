@@ -44,8 +44,14 @@ I’m a designer and developer from Panama living in Barcelona. I love to build 
 
 ## Applications sent
 
-| event             | submit date | url | accepted? | reason? |
-|-------------------|-------------|-----|-----------|---------|
-| React Europe 2019 | 30/nov/2018 | https://checkout.eventlama.com/#/events/reacteurope-2019/cfp/1630/2e276743-2a49-4719-ad77-0b39b5974b8e |
-| RevolutionConf 2019 | 01/dec/2018 | https://sessionize.com/app/speaker/session/75928 |
-| Cityconf 2019 | 01/dec/2018 | https://www.papercall.io/talks/104690/children/104691 |
+| event             | submit date | accepted? | reason? |
+|-------------------|-------------|-----------|---------|
+| React Europe 2019 | 30/nov/2018 |
+| RevolutionConf 2019 | 01/dec/2018 |
+| Cityconf 2019 | 01/dec/2018 |
+| ComponentsConf 2019 | 01/dec/2018 |
+| Chain React 2019 | 01/dec/2018 |
+| JSHeroes 2019 | 01/dec/2018 |
+| React Amsterdam 2019 | 01/dec/2018 |
+| The Lean Developer London 2019 | 01/dec/2018 |
+| React Day Norway | 01/dec/2018 |
