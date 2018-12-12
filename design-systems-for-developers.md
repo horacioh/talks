@@ -26,6 +26,18 @@ I'm going to talk about CSS, styled-components, responsive design and JavaScript
 
 the main tool I will mention is [styled-system](https://jxnblk.com/styled-system/)
 
+## Relevance
+
+Most companies are interested in implementing a design system as the big ones but its not that simple to materialize one.  The idea is to make the design part of UI more familiar to developers.
+
+I'm going to talk about CSS, styled-components, responsive design and JavaScript using React. it would be nice that the audience is confortable with React and styled-components.
+
+the main tool I will mention is [styled-system](https://jxnblk.com/styled-system/)
+
+## Extra info
+
+I think that there's a need for developers and designers to communicate in a way both understand we are trying to sole the same problem with different techniques and solutions.
+
 ## tags
 
 react, design, design system, components
@@ -44,8 +56,8 @@ I’m a designer and developer from Panama living in Barcelona. I love to build 
 
 ## Applications sent
 
-| event             | submit date | accepted? | reason? |
-|-------------------|-------------|-----------|---------|
+| event             | submit date | conf date | accepted? | reason? |
+|-------------------|-------------|-----------|-----------|---------|
 | React Europe 2019 | 30/nov/2018 |
 | RevolutionConf 2019 | 01/dec/2018 |
 | Cityconf 2019 | 01/dec/2018 |
@@ -55,3 +67,4 @@ I’m a designer and developer from Panama living in Barcelona. I love to build 
 | React Amsterdam 2019 | 01/dec/2018 |
 | The Lean Developer London 2019 | 01/dec/2018 |
 | React Day Norway | 01/dec/2018 |
+| Nordic.js | 12/dec/2018 | 10-11 october 2019
