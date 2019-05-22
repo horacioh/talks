@@ -17,7 +17,7 @@ My whole career is based on trying to make designers and developers work more co
 
 ## Elevator pitch
 
-Designers are like us. We all follow a set of rules and constraints that help us create reusable & modular components. We as developers can build and use tools that help us embrace and respect these design constraints. We just need to listen to our designers...
+Designers are like us. We all follow a set of rules and constraints that help us create reusable & modular components. This rules and constraints can easily be aligned with the same rules and constraints our designers follow and use. It is actually easier then you think!..
 
 ## Notes & motivations
 
@@ -36,7 +36,7 @@ the main tool I will mention is [styled-system](https://jxnblk.com/styled-system
 
 ## Extra info
 
-I think that there's a need for developers and designers to communicate in a way both understand we are trying to sole the same problem with different techniques and solutions.
+I think that there's a need for developers and designers to communicate in a way both understand we are trying to solve the same problem with different techniques and solutions.
 
 ## tags
 
@@ -48,7 +48,7 @@ I’m a senior coach in ReactJSAcademy. not past experience as a conference spea
 
 ## Bio
 
-I’m a designer and developer from Panama living in Barcelona. I love to build products and help designers and developer learn from each other. Senior coach, dad of 1 and husband.
+Designer, Developer & Coach from Panama living in Barcelona. I love to build products and help designers and developers learn from each other. Dad of the princess Daniela and husband.
 
 ## references
 
