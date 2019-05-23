@@ -1,0 +1,16 @@
+{
+  "name": "react-europe-2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mdx-deck": "^2.3.2",
+    "rebass": "^3.1.0",
+    "styled-components": "^4.2.0",
+    "styled-system": "^4.2.2"
+  },
+  "scripts": {
+    "start": "mdx-deck design-systems.mdx",
+    "build": "mdx-deck build design-systems.mdx"
+  }
+}
