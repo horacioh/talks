@@ -13,8 +13,6 @@ Teaching is the ultimate learning experience
 
 For the past 2 years, I've being teaching React, React Native, Redux and GraphQL to developers from all around the world in London, Lisbon and Barcelona. From the cities I taught in, I met students from all around the world, and while I was teaching, I was also learning. For me, teaching is one of the most rewarding and fulfilling things I've done, & I want to share with you some of the techniques I use to help people learn and enjoy the process of learning.
 
-
-
 ## Elevator pitch
 
 For the past 2 years, I've being teaching React, React Native, Redux and GraphQL to developers from all around the world in London, Lisbon and Barcelona. From the cities I taught in, I met students from all around the world, and while I was teaching, I was also learning. for me, teaching is one of the most rewarding and fulfilling things I've done, & I want to share with you some of the techniques I use to help people learn and enjoy the process of learning.
