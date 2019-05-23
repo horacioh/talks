@@ -1,6 +1,8 @@
 import { Notes } from 'mdx-deck'
+import { Text } from 'rebass'
 export { theme } from './theme'
-import { Layout, Footer } from './components/Layout'
+import { Layout } from './components/Layout'
+import { Hire } from './components/Hire'
 
 <Layout>
 
@@ -11,20 +13,22 @@ Horacio Herrera - @hhg2288
 
 ---
 
-<Layout>
+<Layout width={1000}>
 
 ## A little about me
 
 - Digital Designer
 - Self-taught Developer
-- Coach at [@reactjsacademy]()
-- Consultant (hire me!)
+- Coach at `@reactjsacademy`
+- Consultant
+
+<Hire />
 
 </Layout>
 
 ---
 
-<Layout>
+<Layout center>
 
 ## Designers and Developers
 need a common language to work **faster** and make products **better**
@@ -39,7 +43,7 @@ need a common language to work **faster** and make products **better**
 
 ---
 
-<Layout>
+<Layout center>
 
 ## What is a Design System?
 
@@ -65,20 +69,30 @@ need a common language to work **faster** and make products **better**
 
 ---
 
-<Layout>
+<Layout center>
 
-## A little Story
-#### From UX to Design System
+## Design & Development
+### is all about empathy
+
+</Layout>
+
+---
+
+<Layout center>
+
+A little Story:
+## From UX to Design System
 This is the story of Paul
 
 </Layout>
 
 ---
 
-<Layout>
+<Layout center>
 
-## The Goal was to teach Paul how to build UI Primitives with `React` & `styled-components`
-& eventually give him full access and ownership on the design system we where using for the product we were building
+### The Goal was to teach Paul how to build UI Primitives with
+### `React` & `styled-components`
+*and eventually give him full access and ownership on the design system we where using for the product we were building*
 
 </Layout>
 
@@ -122,7 +136,9 @@ This is the story of Paul
 
 # Thanks!
 
-Follow me on Twitter - @hhg2288
+<Hire />
+
+<Text fontSize={4} color="navy" my={5}>Follow me on Twitter - @hhg2288</Text>
 
 </Layout>
 
