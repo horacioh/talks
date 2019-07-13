@@ -58,3 +58,4 @@ Designer, Developer & Coach from Panama living in Barcelona. I love to build pro
 | React Advanced London 2019 | 12/jul/2019 |
 | Chicago JS Camp 2019 | 12/jul/2019 |
 | FullStack Fest Barcelona 2019 | 12/jul/2019 |
+| React Day Berlin 2019 | 12/jul/2019 |
