@@ -1,4 +1,4 @@
-# Design systems for developers
+# The Process of Creating a Design System
 
 ## title
 
